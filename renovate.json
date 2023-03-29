@@ -1,4 +1,5 @@
 {
   "dependencyDashboard": true,
+  "stabilityDays": 365,
   "prHourlyLimit": 0
 }
